@@ -1,0 +1,22 @@
+These are token names for each of the tokens mentioned in the
+grammar, checker.py contains most of it.
+
+    'IDENTIFIER'    - identifier in the langugae
+    'NUMBER'        - number like 10, 20 etc
+    'IF'            - if keyword
+    'ELSE'          - else keyword
+    'WHILE'         - while keyword
+    'PLUS'          - +
+    'MINUS'         - -
+    'MULTIPLY'      - *
+    'DIVIDE'        - /
+    'EQ'            - ==
+    'EQUALS'        - =
+    'NEQ'           - !=
+    'LESS'          - <
+    'GREATER'       - >
+    'LPAREN'        - (
+    'RPAREN'        - )
+    'COMMA',        - ,
+    'COLON'         - :
+    'EOF',          - End of file or None
